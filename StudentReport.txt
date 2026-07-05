@@ -1,0 +1,17 @@
+========== STUDENT GRADE REPORT ==========
+
+Student Name : jhgj
+Roll Number  : 5
+
+Subject 1 : 78
+Subject 2 : 89
+Subject 3 : 76
+Subject 4 : 88
+Subject 5 : 99
+
+Total       : 430
+Average     : 86.0
+Percentage  : 86.0%
+Highest     : 99
+Lowest      : 76
+Grade       : A
